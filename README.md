@@ -1,4 +1,4 @@
-# CT_Decision_Tree_Task
+# CodeTech Decision Tree Task
 
 ### **Company:** CodeTech IT Solutions
 ### **Name:** Hrishikesh Divekar
